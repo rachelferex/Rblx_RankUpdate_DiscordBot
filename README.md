@@ -1,1 +1,2 @@
-# Rblx_RankUpdate_DiscordBot
+# 로블록스 계급 변경 디스코드 봇
+누구나 자유롭게 사용이 가능합니다
